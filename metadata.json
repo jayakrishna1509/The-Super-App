@@ -1,0 +1,6 @@
+{
+  "name": "Super App",
+  "description": "A modern, responsive, pixel-perfect entertainment dashboard and discovery application featuring notes, weather, widgets, a countdown timer, a curated news feed, and movie recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_API"]
+}
